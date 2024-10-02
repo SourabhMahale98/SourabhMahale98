@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spring boot based Projects.<br>🌱 I’m currently learning more about New Technologies and AI.<br>💬 Ask me about Java or any tech-related stuff.<br>📫 How to reach me: Twitter - @SourabhMahale .<br>😄 Pronouns: He/His<br>⚡ Fun fact: I spend almost 2 hours listening to songs every day.<br>
+🔭 I’m currently working on Spring boot based Projects.<br>🌱 I’m currently learning more about java and spring boot technologies.<br>💬 Ask me about Java or any tech-related stuff.<br>📫 How to reach me: Twitter - @SourabhMahale .<br>😄 Pronouns: He/His<br>⚡ Fun fact: I spend almost 2 hours listening to songs every day.<br>
 
 
 ## 🌐 Socials:
